@@ -1,5 +1,4 @@
-git config --global user.email "0892628@lbcc.edu"
-git config --global user.name "lmiranda"
+
 # import Active Directory Module
 Import-Module ActiveDirectory
 
